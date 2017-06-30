@@ -11,7 +11,7 @@ Aides developer
 Channel = @super_api
 */
 ob_start();
-$API_KEY = '399769987:AAGDSwBcKVPkkGKqCuV8j4NPRWw6O2KhxNU'; //add your bot token
+$API_KEY = '435206637:AAH0NfcP6sqX6UD3Dw10ZVOgUYaJYlIzOrg'; //add your bot token
 $bot_ = "k_8bot";
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
